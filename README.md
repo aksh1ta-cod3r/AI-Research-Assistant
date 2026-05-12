@@ -51,7 +51,6 @@ Step 2: Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-
 Step 3: Create a `.env` file and add your Google Gemini API key
 
 ```txt
