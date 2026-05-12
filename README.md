@@ -70,3 +70,4 @@ Example:
 ```txt
 Ask anything: What is Artificial Intelligence?
 ```
+⭐ If you found this project useful, consider giving it a star.<img width="1486" height="522" alt="image" src="https://github.com/user-attachments/assets/baa4ee32-4181-4191-9388-8d162d40542e" />
